@@ -720,6 +720,8 @@
 
 			.image.fit img {
 				width: 100%;
+				padding: 0px;
+				margin-top: 20px;
 			}
 
 		.image.main {
